@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Arezoo Khalili
 
-<!--
-**Arezookhalili/arezookhalili** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a **data scientist** and researcher passionate about applying machine learning to solve real-world problems in **biomedicine**, **finance**, and **science**. I bring a **cross-disciplinary mindset** to every project—from experimental design to predictive modeling.
 
-Here are some ideas to get you started:
+- 💡 Focused on AI-driven solutions for biomedical and financial challenges  
+- 📊 Skilled in Python, machine learning, statistical analysis, and technical writing  
+- 🔍 Experienced in translating complex data into clear, actionable insights  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🤝 I’m Open to Collaborating On
+
+- Applied ML and data science in **biomedical** and **financial** domains  
+- Research translation, data storytelling, and dashboard development  
+- AI/ML in experimental science or engineering workflows  
+
+---
+
+### 📫 Let’s Connect
+
+- ✉️ **arezoo.khalili.ca@gmail.com**  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/arezookh1)  
+- 🌐 [Portfolio Website](https://arezookhalili.github.io/)
+
+---
+
+> _“Innovation is born from curiosity, validated by data, and refined through collaboration.”_
